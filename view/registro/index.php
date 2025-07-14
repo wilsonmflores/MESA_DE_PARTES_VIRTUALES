@@ -39,15 +39,15 @@
                                         </div>
                                         <form id="formRegistro" class="needs-validation custom-form mt-4 pt-2" novalidate="" action="index.html">                            
                                             <div class="mb-3">
-                                                <label for="nomb_y_apell" class="form-label">NOMBRES Y APELLIDOS:</label>
-                                                <input type="text" class="form-control" id="nomb_y_apell" name="nomb_y_apell" placeholder="Ingrese sus Nombres" required="">
-                                                <div class="validation-error text-danger"></div>  
-                                            </div>
-
-                                            <div class="mb-3">
                                                 <label for="email" class="form-label">CORREO ELECTÓNICO:</label>
                                                 <input type="email" class="form-control" id="email" name="email" placeholder="Ingrese su correo electrónico" required="">
                                                 <div class="validation-error text-danger"></div>
+                                            </div>
+                                            
+                                            <div class="mb-3">
+                                                <label for="nomb_y_apell" class="form-label">NOMBRES Y APELLIDOS:</label>
+                                                <input type="text" class="form-control" id="nomb_y_apell" name="nomb_y_apell" placeholder="Ingrese sus Nombres" required="">
+                                                <div class="validation-error text-danger"></div>  
                                             </div>
                     
                                             <div class="mb-3">

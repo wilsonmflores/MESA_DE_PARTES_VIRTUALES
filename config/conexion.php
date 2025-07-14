@@ -18,7 +18,7 @@
         }
         
         public static function ruta(){
-            return "http://mesa_de_partes_virtual.test/";
+            return "http://mesa_de_partes_virtuales.test/";
         }
     }
 
